@@ -1,0 +1,7 @@
+<?php  
+
+/*
+* app/validators.php
+*/
+
+?>
